@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+!*/
+!README.md
+!.gitignore
+!*.c
+!*.h
