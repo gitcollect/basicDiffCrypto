@@ -10,6 +10,9 @@ diff-class:
 	$(CC) -o diff_c -D DIFF_TEST -D CLASS $(SOURCES)
 diff-book:
 	$(CC) -o diff_c -D DIFF_TEST -D BOOK $(SOURCES)
+
+diff-general:
+	$(CC) -o diff_c -D DIFF_TEST -D GENERAL $(SOURCES)
 sbox:
 	$(CC) -o sbox -D SBOX_TEST $(SOURCES)
 permute:
