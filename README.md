@@ -12,7 +12,7 @@ The SPN parameters are defined in diff_crypto.c; Currently, rounds keys have to 
 ### Todo: 
 
 
-* **Comments!**.
-* Add functionality so that new differential trails can be attacked easier.
-* Generalise S-box and permutations to arbitrary bits.
-* Add a key-schedule function.
+[ ] **Comments!**.
+[x]Add functionality so that new differential trails can be attacked easier.
+[ ] Generalise S-box and permutations to arbitrary bits.
+[ ] Add a key-schedule function.
